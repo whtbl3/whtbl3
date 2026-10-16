@@ -51,5 +51,5 @@ End-to-end retail analytics: **PostgreSQL → dlt → Snowflake → dbt → Pres
 ## GitHub stats
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=whtbl3&theme=tokyonight&hide_border=true" alt="GitHub streak" />
+  <img src="https://streak-stats.demolab.com/?user=whtbl3&theme=dark&hide_border=true&background=0D1117&ring=29B5E8&fire=FF694B&currStreakNum=29B5E8&currStreakLabel=29B5E8&sideNums=FFFFFF&sideLabels=8B949E&dates=8B949E" alt="GitHub streak" />
 </p>
