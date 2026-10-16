@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://github.com/whtbl3">
-    <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=22&pause=1000&color=29B5E8&center=true&vCenter=true&width=600&lines=Data+Engineer+%40+Cloud+Kinetics;Lakehouse+%E2%80%A2+Streaming+%E2%80%A2+Warehousing;Snowflake+%2B+dbt+%2B+Dagster+enthusiast;AWS+Certified+Data+Engineer" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=22&pause=1000&color=29B5E8&center=true&vCenter=true&width=600&lines=Data+Engineer;Lakehouse+%E2%80%A2+Streaming+%E2%80%A2+Warehousing;Snowflake+%2B+dbt+%2B+Dagster+enthusiast;AWS+Certified+Data+Engineer" alt="Typing SVG" />
   </a>
 </p>
 
